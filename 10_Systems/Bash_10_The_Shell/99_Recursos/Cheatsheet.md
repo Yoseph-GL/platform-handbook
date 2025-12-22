@@ -1,7 +1,5 @@
 # Bash 10: Hoja de Referencia Rapida (Cheatsheet)
 
-
-
 ## 1. Navegacion
 | Comando | Descripcion |
 |:---|:---|

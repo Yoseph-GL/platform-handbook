@@ -51,10 +51,10 @@ Objetivo: Manipular logs, CSVs y outputs de comandos.
 
 ## 8. Robustez y Debugging (CRITICO)
 Objetivo: Bash Defensivo. Scripts a prueba de balas.
-- [ ] [[Manejo_de_Errores_set_e]] | Detener ejecucion si algo falla.
+- [ ] [[Unofficial_Strict_Mode]] | Detener ejecucion si algo falla.
 - [ ] [[Traps_y_Limpieza]] | Limpiar temporales al salir o cancelar (Ctrl+C).
 - [ ] [[Debugging_set_x]] | Trazar la ejecucion para encontrar bugs.
-- [ ] [[Validacion_de_Variables]] | Asegurar que los inputs existen.
+- [ ] [[Analisis_Estatico_Shellcheck]] | Asegurar que los inputs existen.
 
 ## 9. Automatizacion y Sistema
 Objetivo: Integracion con el OS.
