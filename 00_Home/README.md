@@ -2,7 +2,7 @@
 # [Joseph Angel Anthony Garza Lopez]
 
 > **[]**
-> "Documentation as Code: Mi viaje hacia Platform Engineering"*
+> "Documentation as Code: Mi viaje "
 
 ---
 
