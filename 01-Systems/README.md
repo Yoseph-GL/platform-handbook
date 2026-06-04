@@ -1,13 +1,24 @@
 # 01-Systems
 
-Canonical domain for Linux/Ubuntu internals, networking fundamentals (TCP/IP and DNS), and security hardening practices.
+## Architecture
+
+Canonical domain for Linux/Ubuntu internals, networking fundamentals (TCP/IP and DNS), and security hardening.
 
 ## Scope
 
-- Kernel and operating system behavior for headless Linux environments.
-- Network troubleshooting and protocol-level diagnostics.
-- Baseline hardening and secure-by-default operational controls.
+- Kernel and operating system behavior for headless Linux environments
+- Network troubleshooting and protocol-level diagnostics
+- Baseline hardening and secure-by-default operational controls
 
-## Current Material Mapping
+## Prerequisites
 
-Content for this domain is pending migration. See the [roadmap](../README.md) for planned coverage.
+- Ubuntu Server LTS (or compatible Linux distribution)
+- Shell access with `sudo`
+
+## Quickstart
+
+```bash
+# Verify kernel and OS release
+uname -a
+lsb_release -a
+```
