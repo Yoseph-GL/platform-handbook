@@ -10,4 +10,4 @@ Canonical domain for Linux/Ubuntu internals, networking fundamentals (TCP/IP and
 
 ## Current Material Mapping
 
-Legacy content is currently stored in [10_Systems](../10_Systems) and should be normalized into this domain structure over time.
+Content for this domain is pending migration. See the [roadmap](../README.md) for planned coverage.

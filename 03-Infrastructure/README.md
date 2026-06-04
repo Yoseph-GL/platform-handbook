@@ -10,4 +10,4 @@ Canonical domain for containerization, orchestration foundations, and CI/CD plat
 
 ## Current Material Mapping
 
-Legacy content is currently stored in [30_Platform](../30_Platform) and should be normalized into this domain structure over time.
+Content for this domain is pending migration. See the [roadmap](../README.md) for planned coverage.

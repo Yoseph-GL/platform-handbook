@@ -10,7 +10,7 @@ Canonical domain for programming logic, Java OOP, Python engineering practices, 
 
 ## Current Material Mapping
 
-Legacy content is currently stored in [20_Code](../20_Code) and should be normalized into this domain structure over time.
+Active content lives under the [SQL Guide](./sql-guide/00-index.md). Java OOP and Python content are pending.
 
 ## SQL Guide (Obsidian, Scalable Levels)
 

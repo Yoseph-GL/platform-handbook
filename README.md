@@ -7,6 +7,7 @@ Building scalable, automated environments through code-driven documentation.
 ## About & Tags
 
 **Description:** "Production-ready Platform Engineering handbook using Documentation as Code. Deep dives into Java OOP, SQL optimization, Bash automation, and Docker on Linux."  
+**Status:** Early-stage — the SQL guide is the most developed section. Other domains are scaffolded and pending content.  
 **Topics:** platform-engineering, dataops, documentation-as-code, java-oop, sql-optimization, bash-scripting, docker, linux-administration.
 
 ## Knowledge Map
