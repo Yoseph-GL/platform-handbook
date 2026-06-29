@@ -13,9 +13,9 @@ Scope:
 
 ```sql
 -- Module pages
--- 01-transactions-and-locks.md
--- 02-stored-procedures.md
--- 03-user-defined-functions.md
+-- [[01-transactions-and-locks]]
+-- [[02-stored-procedures]]
+-- [[03-user-defined-functions]]
 ```
 
 ## Performance / Optimization Notes
