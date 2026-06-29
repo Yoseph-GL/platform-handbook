@@ -13,11 +13,11 @@ Goals:
 
 ```sql
 -- Module pages
--- 01-schema-foundations.md
--- 02-constraints-and-keys.md
--- 03-relationships-and-join-tables.md
--- 04-schema-changes-and-versioning.md
--- 05-clean-database-checklist.md
+-- [[01-schema-foundations]]
+-- [[02-constraints-and-keys]]
+-- [[03-relationships-and-join-tables]]
+-- [[04-schema-changes-and-versioning]]
+-- [[05-clean-database-checklist]]
 ```
 
 ## Performance / Optimization Notes

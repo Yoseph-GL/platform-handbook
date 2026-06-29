@@ -10,18 +10,20 @@ Scope:
 - Set operations with UNION and UNION ALL.
 - Views for reusable query definitions.
 - Normalization principles for clean schema design.
-- SQL comment syntax.
+- SQL comment syntax and best practices.
+- Cardinality and table relationships (1:1, 1:N, M:N).
 
 ## Query / Code Blocks
 
 ```sql
 -- Module pages
--- 01-subqueries.md
--- 02-joins.md
--- 03-union-and-set-operations.md
--- 04-views.md
--- 05-normalization.md
--- 06-comments.md
+-- [[01-subqueries]]
+-- [[02-joins]]
+-- [[03-union-and-set-operations]]
+-- [[04-views]]
+-- [[05-normalization]]
+-- [[06-comments]]
+-- [[07-cardinality]]
 ```
 
 ## Performance / Optimization Notes
