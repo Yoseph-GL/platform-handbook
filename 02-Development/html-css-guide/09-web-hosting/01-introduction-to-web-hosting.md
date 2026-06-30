@@ -1,4 +1,4 @@
-# Web Hosting: Introduction to WEB HOSTING
+# Web Hosting: Introduction to Web Hosting
 
 ## Architecture / Rationale
 

@@ -36,3 +36,4 @@ du -sh ~/Documents
 - Everything in Unix is a file — even devices and network sockets. This makes the file system the universal interface.
 - Avoid putting files directly in `/`. Work in `/home/yourname/` or `/tmp/` for experiments.
 - `df -h` and `du -sh` are the two commands to check disk space. Learn them early.
+- For a complete reference of all standard Linux folders, see [[01-Systems/linux-fhs-reference]].

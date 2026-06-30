@@ -1,4 +1,4 @@
-# CSS Grid: Creating a WEB Page
+# CSS Grid: Creating a Web Page
 
 ## Architecture / Rationale
 
