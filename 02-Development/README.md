@@ -2,13 +2,15 @@
 
 ## Architecture
 
-Canonical domain for backend programming logic, data structures, relational schema design, and SQL optimization.
+Canonical domain for backend programming logic, data structures, relational schema design, SQL optimization, and frontend web development with HTML and CSS.
 
 ## Scope
 
 - Object-oriented modeling and maintainable backend design
 - Data structure selection based on complexity and workload profile
 - Relational schema design, query plan analysis, and SQL performance tuning
+- HTML document structure, semantic markup, and web accessibility
+- CSS layout systems (Flexbox, Grid), responsive design, and modern CSS features
 
 ## SQL Guide
 
@@ -16,6 +18,16 @@ Canonical domain for backend programming logic, data structures, relational sche
 - [Level 1 — Structure](./sql-guide/01-structure/00-index.md)
 - [Level 2 — Basics](./sql-guide/02-basics/00-index.md)
 - [Future Themes Roadmap](./sql-guide/90-roadmap/00-future-themes.md)
+
+## HTML/CSS Guide
+
+- [HTML/CSS Guide Index](./html-css-guide/00-index.md)
+- [Level 0 — Introduction](./html-css-guide/00-introduction/00-index.md)
+- [Level 1 — Basic HTML](./html-css-guide/01-basic-html/00-index.md)
+- [Level 2 — Basic CSS](./html-css-guide/02-basic-css/00-index.md)
+- [Level 5 — CSS Flexbox](./html-css-guide/05-flexbox/00-index.md)
+- [Level 7 — CSS Grid](./html-css-guide/07-grid/00-index.md)
+- [Future Themes Roadmap](./html-css-guide/90-roadmap/00-future-themes.md)
 
 ## Prerequisites
 
