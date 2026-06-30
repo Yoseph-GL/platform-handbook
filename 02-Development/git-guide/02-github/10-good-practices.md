@@ -41,6 +41,7 @@ git commit -m "WIP"
 - Use `git pull --rebase` instead of `git pull`. It keeps the history linear and easier to read.
 - Delete branches after they are merged. Old branches clutter the repository and confuse the team.
 - Write commit messages in English. It is the standard language for open-source projects.
-- For a complete reference on commit message conventions, see [[../../commits]].
+- For the full commit message standard, see [[12-commit-conventions]].
 
 [[11-next-steps]]
+[[12-commit-conventions]]
