@@ -1,4 +1,4 @@
-# Web Foundations: Understanding the WEB
+# Web Foundations: Understanding the Web
 
 ## Architecture / Rationale
 

@@ -2,7 +2,7 @@
 
 ## Architecture
 
-Canonical domain for backend programming logic, data structures, relational schema design, SQL optimization, shell scripting, and frontend web development with HTML and CSS.
+Canonical domain for backend programming logic, data structures, relational schema design, SQL optimization, shell scripting, frontend web development with HTML and CSS, and Git version control.
 
 ## Scope
 
@@ -12,6 +12,7 @@ Canonical domain for backend programming logic, data structures, relational sche
 - HTML document structure, semantic markup, and web accessibility
 - CSS layout systems (Flexbox, Grid), responsive design, and modern CSS features
 - Bash shell scripting, command-line tools, and system process management
+- Git version control, commit conventions, and collaboration workflows
 
 ## SQL Guide
 
@@ -38,6 +39,13 @@ Canonical domain for backend programming logic, data structures, relational sche
 - [Level 8 — Scripting](./bash-guide/08-scripting/00-index.md)
 - [Level 9 — Logic](./bash-guide/09-logic/00-index.md)
 - [Future Themes Roadmap](./bash-guide/90-roadmap/00-future-themes.md)
+
+## Git Guide
+
+- [Git Guide Index](./git-guide/00-index.md)
+- [Level 2 — GitHub](./git-guide/02-github/00-index.md)
+- [Commit Conventions](./git-guide/02-github/01-commit-conventions.md)
+- [Future Themes Roadmap](./git-guide/90-roadmap/00-future-themes.md)
 
 ## Prerequisites
 

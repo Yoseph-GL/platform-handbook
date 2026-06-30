@@ -1,4 +1,4 @@
-# Bash Future Themes Roadmap
+# Bash Roadmap: Future Themes
 
 ## Architecture / Rationale
 

@@ -1,4 +1,4 @@
-# HTML Basics: Structure of a WEB Page
+# HTML Basics: Structure of a Web Page
 
 ## Architecture / Rationale
 
