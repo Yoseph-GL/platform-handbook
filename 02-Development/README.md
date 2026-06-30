@@ -2,7 +2,7 @@
 
 ## Architecture
 
-Canonical domain for backend programming logic, data structures, relational schema design, SQL optimization, and frontend web development with HTML and CSS.
+Canonical domain for backend programming logic, data structures, relational schema design, SQL optimization, shell scripting, and frontend web development with HTML and CSS.
 
 ## Scope
 
@@ -11,6 +11,7 @@ Canonical domain for backend programming logic, data structures, relational sche
 - Relational schema design, query plan analysis, and SQL performance tuning
 - HTML document structure, semantic markup, and web accessibility
 - CSS layout systems (Flexbox, Grid), responsive design, and modern CSS features
+- Bash shell scripting, command-line tools, and system process management
 
 ## SQL Guide
 
@@ -28,6 +29,15 @@ Canonical domain for backend programming logic, data structures, relational sche
 - [Level 5 — CSS Flexbox](./html-css-guide/05-flexbox/00-index.md)
 - [Level 7 — CSS Grid](./html-css-guide/07-grid/00-index.md)
 - [Future Themes Roadmap](./html-css-guide/90-roadmap/00-future-themes.md)
+
+## Bash Guide
+
+- [Bash Guide Index](./bash-guide/00-index.md)
+- [Level 1 — Setup](./bash-guide/01-setup/00-index.md)
+- [Level 2 — First Steps](./bash-guide/02-first-steps/00-index.md)
+- [Level 8 — Scripting](./bash-guide/08-scripting/00-index.md)
+- [Level 9 — Logic](./bash-guide/09-logic/00-index.md)
+- [Future Themes Roadmap](./bash-guide/90-roadmap/00-future-themes.md)
 
 ## Prerequisites
 
