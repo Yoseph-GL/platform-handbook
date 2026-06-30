@@ -2,11 +2,11 @@
 
 ## Architecture / Rationale
 
-This guide is a structured learning path for Git version control. It goes from basic commits to collaboration and workflow patterns.
+This guide is a structured learning path for Git version control. It goes from basic commands to GitHub collaboration.
 
 Level boundaries:
-1. **Level 1 - Basics:** repositories, commits, staging, and history.
-2. **Level 2 - GitHub:** collaboration, pull requests, conventions, and best practices.
+1. **Level 1 - Basics:** repositories, commits, branches, merges, and history.
+2. **Level 2 - GitHub:** remote repositories, collaboration, pull requests, and good practices.
 
 Current implementation scope is Level 1 through Level 2.
 
