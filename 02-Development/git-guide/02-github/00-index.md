@@ -1,23 +1,33 @@
-# Git Level 2: GitHub and Collaboration
+# Git Level 2: GitHub
 
 ## Architecture / Rationale
 
-This level covers how to work with Git in a team using GitHub. You learn commit conventions, pull requests, and collaboration best practices.
+This level covers how to share your code and work with others using GitHub. You learn to connect local repositories to remote ones, contribute to projects, and follow collaboration best practices.
 
 Scope:
-- Conventional Commits standard for clear history.
-- Git best practices for daily work.
-- Pull requests and code review workflow.
+- What GitHub is and how to create remote repositories.
+- Pushing, pulling, and cloning.
+- Forks, pull requests, and issues.
+- Good practices for team collaboration.
 
 ## Query / Code Blocks
 
 ```bash
 # Module pages
-# [[01-commit-conventions]]
-# [[02-good-practices]]
+# [[01-introduction-to-github]]
+# [[02-create-and-configure-remote]]
+# [[03-git-clone]]
+# [[04-git-push]]
+# [[05-git-pull-and-fetch]]
+# [[06-migrate-local-repository]]
+# [[07-forks-and-contributions]]
+# [[08-pull-requests]]
+# [[09-github-issues]]
+# [[10-good-practices]]
+# [[11-next-steps]]
 ```
 
 ## Performance / Optimization Notes
 
-- Consistent commit messages make the project history readable. Future you will thank present you.
-- Good practices prevent common Git mistakes before they happen.
+- GitHub is the standard platform for open-source. Learning it opens up millions of projects to contribute to.
+- Good commit practices make collaboration smoother. See the good practices note for commit conventions.
