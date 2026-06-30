@@ -9,6 +9,7 @@ Scope:
 - Pushing, pulling, and cloning.
 - Forks, pull requests, and issues.
 - Good practices for team collaboration.
+- Commit message conventions.
 
 ## Query / Code Blocks
 
@@ -25,6 +26,7 @@ Scope:
 # [[09-github-issues]]
 # [[10-good-practices]]
 # [[11-next-steps]]
+# [[12-commit-conventions]]
 ```
 
 ## Performance / Optimization Notes
