@@ -2,6 +2,8 @@
 /.obsidian/
 /.trash/
 
-# Local
-/README_IA.md
-/.readmeAI
+# Documentation
+AGENTS.md
+
+# Governance
+.readmeAI

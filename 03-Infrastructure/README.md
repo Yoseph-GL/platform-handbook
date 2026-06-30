@@ -1,13 +1,23 @@
 # 03-Infrastructure
 
-Canonical domain for containerization, orchestration foundations, and CI/CD platform engineering principles.
+## Architecture
+
+Canonical domain for containerization, orchestration fundamentals, and CI/CD platform engineering.
 
 ## Scope
 
-- Docker image/runtime lifecycle and network behavior.
-- Orchestration patterns for resilient service operation.
-- CI/CD pipeline design for reproducibility, traceability, and release safety.
+- Docker image/runtime lifecycle and network behavior
+- Orchestration patterns for resilient service operation
+- CI/CD pipeline design for reproducibility, traceability, and release safety
 
-## Current Material Mapping
+## Prerequisites
 
-Legacy content is currently stored in [30_Platform](../30_Platform) and should be normalized into this domain structure over time.
+- Docker Engine
+- Docker Compose (standalone or plugin)
+
+## Quickstart
+
+```bash
+docker --version
+docker compose version
+```

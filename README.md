@@ -1,35 +1,35 @@
 # Platform Engineering Handbook: Documentation as Code
 
-**Joseph Angel Anthony Garza Lopez | Aspiring Platform Engineer**  
-Aspiring Platform Engineer focused on Backend Infrastructure and DataOps.  
-Building scalable, automated environments through code-driven documentation.
+## Architecture
 
-## About & Tags
+Documentation-as-code knowledge base for Platform Engineering and DataOps, organized across four operational domains.
 
-**Description:** "Production-ready Platform Engineering handbook using Documentation as Code. Deep dives into Java OOP, SQL optimization, Bash automation, and Docker on Linux."  
-**Topics:** platform-engineering, dataops, documentation-as-code, java-oop, sql-optimization, bash-scripting, docker, linux-administration.
+## Repository Map
 
-## Knowledge Map
+- `01-Systems` — Linux/Ubuntu internals, TCP/IP, DNS, security hardening, filesystem reference
+- `02-Development` — SQL, Bash/Shell scripting, HTML/CSS, and Git learning guides
+- `03-Infrastructure` — Docker, orchestration, CI/CD principles
+- `04-Operations` — LTS-ready scripts and SOPs for production operations
 
-| Domain | Focus | Folder |
-| --- | --- | --- |
-| `01-Systems` | Linux/Ubuntu internals, TCP/IP, DNS, and security hardening | [01-Systems](./01-Systems) |
-| `02-Development` | Java OOP, Python, data structures, and SQL optimization | [02-Development](./02-Development) |
-| `03-Infrastructure` | Docker, orchestration fundamentals, and CI/CD principles | [03-Infrastructure](./03-Infrastructure) |
-| `04-Operations` | LTS-ready scripts and SOPs for production operations | [04-Operations](./04-Operations) |
+## Learning Guides
 
-## Core Technical Domains: Java, SQL, and Linux Systems
+- [SQL Guide](./02-Development/sql-guide/00-index.md) — from schema design to advanced queries
+- [HTML/CSS Guide](./02-Development/html-css-guide/00-index.md) — from basic tags to CSS Grid and animations
+- [Bash Guide](./02-Development/bash-guide/00-index.md) — from terminal basics to scripting and cron jobs
+- [Git Guide](./02-Development/git-guide/00-index.md) — commit conventions and collaboration patterns
 
-This handbook prioritizes backend engineering fundamentals with production context: object-oriented system design in Java, relational modeling and SQL tuning, and Linux-first operational literacy.
+## Prerequisites
 
-## Infrastructure Automation with Docker and Bash
+- Git
+- Markdown editor (VS Code, Obsidian, or equivalent)
 
-Infrastructure content is organized for repeatable automation patterns that scale from local validation to CI/CD execution, with explicit focus on deterministic Bash behavior and container-first workflows.
+## Quickstart
 
-## LTS Standards: Safety and Scalability in Ops
+```bash
+git clone git@github.com:Yoseph-GL/documentation-as-code.git
+cd documentation-as-code
+```
 
-Operations notes and scripts are designed for maintainability under long-term support constraints, with controlled execution paths and explicit safeguards for production-grade reliability.
+## LTS Script Standard
 
-## The LTS Promise
-
-The LTS Promise: All automation scripts and code snippets in this repository are LTS-ready. They implement set -euo pipefail for shell safety, use absolute path anchoring, and strictly require the --run flag for any system-modifying execution to ensure reliability in production-grade environments.
+All automation scripts and code snippets in this repository enforce `set -euo pipefail`, use absolute path anchoring, and require the `--run` flag for system-modifying execution. Dry-run is the default when `--run` is absent.

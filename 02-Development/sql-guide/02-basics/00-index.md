@@ -6,6 +6,8 @@ This level defines baseline SQL operations required for day-to-day backend work.
 
 Scope:
 - Read queries (`SELECT`, filters, sorting, limits).
+- Filter operators (`BETWEEN`, `LIKE`, `IN`, `IS NULL`, logic combinations).
+- Identifiers, column aliases (`AS`), and table aliases.
 - Aggregation patterns (`COUNT`, `SUM`, `AVG`, `GROUP BY`, `HAVING`).
 - Expressions and null handling (`CASE`, `IFNULL`).
 - Safe write operations (`INSERT`, `UPDATE`, `DELETE`).
@@ -14,11 +16,13 @@ Scope:
 
 ```sql
 -- Module pages
--- 01-select-filter-sort.md
--- 02-aggregation-and-grouping.md
--- 03-expressions-and-null-handling.md
--- 04-safe-mutations.md
--- 05-baseline-performance.md
+-- [[01-select-filter-sort]]
+-- [[02-aggregation-and-grouping]]
+-- [[03-expressions-and-null-handling]]
+-- [[04-safe-mutations]]
+-- [[05-baseline-performance]]
+-- [[06-filter-operators]]
+-- [[07-identifiers-and-aliases]]
 ```
 
 ## Performance / Optimization Notes
